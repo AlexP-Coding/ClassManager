@@ -1,8 +1,8 @@
 # ClassManager - Turmas
 
-Class management system for the course of Distributed Systems @ist. 
+Class management distributed system for the course of Distributed Systems @ist. 
 
-This project was implemented using gRPC and gossip for communication protocols.
+This project was implemented using gRPC and gossip for communication protocols, and is designed to be fault-tolerant and coherent.
 
 ## Authors
 
