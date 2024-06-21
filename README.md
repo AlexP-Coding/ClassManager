@@ -1,6 +1,8 @@
 # ClassManager - Turmas
 
-Class management distributed system for the course of Distributed Systems @ist. 
+Class management distributed system for the course of Distributed Systems [@IST](https://tecnico.ulisboa.pt/en/).  
+
+It was originally an updated fork from https://github.com/tecnico-distsys/Turmas as per a class project. I have created this repo so the work done may be kept for posterity in case the original repository is deleted.
 
 This project was implemented using gRPC and gossip for communication protocols, and is designed to be fault-tolerant and coherent.
 
